@@ -56,7 +56,7 @@ int main() {
     horaChegada = horaChegada % 24;
 
     // Saída
-    cout << "===== GPS BASICO =====\n";
+    cout << "===== GPS PJ NP1 =====\n";
     cout << "Distancia: " << (int)distancia << " km\n";
     cout << "Velocidade media: " << (int)velocidade << " km/h\n\n";
 
